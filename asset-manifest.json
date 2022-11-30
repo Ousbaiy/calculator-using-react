@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ousbaiy/calculator-using-react.git/static/css/main.49c0209d.css",
-    "main.js": "/Ousbaiy/calculator-using-react.git/static/js/main.3278817c.js",
-    "index.html": "/Ousbaiy/calculator-using-react.git/index.html",
-    "main.49c0209d.css.map": "/Ousbaiy/calculator-using-react.git/static/css/main.49c0209d.css.map",
-    "main.3278817c.js.map": "/Ousbaiy/calculator-using-react.git/static/js/main.3278817c.js.map"
+    "main.css": "/calculator-using-react/static/css/main.49c0209d.css",
+    "main.js": "/calculator-using-react/static/js/main.3278817c.js",
+    "index.html": "/calculator-using-react/index.html",
+    "main.49c0209d.css.map": "/calculator-using-react/static/css/main.49c0209d.css.map",
+    "main.3278817c.js.map": "/calculator-using-react/static/js/main.3278817c.js.map"
   },
   "entrypoints": [
     "static/css/main.49c0209d.css",
